@@ -1,0 +1,93 @@
+body {
+ 	font-family: sans-serif;
+ 	text-align: center;
+ 	background-color: rgb(246, 246, 246);
+ 	padding-top: 48px;
+ 	padding-bottom: 48px;
+ 	padding-left: 10%;
+ 	padding-right: 10%;
+ 	border-top-style: solid;
+ 	border-top-color: black;
+ 	border-top-width: 5px;
+ 	border-bottom-style: solid;
+ 	border-bottom-color: black;
+ 	border-bottom-width: 5px;
+}
+
+nav {
+	font-weight: bold;
+	color: black;
+}
+
+nav span {
+	font-style: italic;
+}
+
+nav a {
+	color: black;
+}
+
+hr { 
+	margin-top: 24px;
+	margin-bottom: 24px
+}
+
+strong {
+  font-style: italic;
+}
+
+h1 {
+	text-transform: uppercase;
+}
+
+h1 {font-size: 30px;
+}
+
+h2 {font-size: 20px;
+	text-align: left;
+}
+
+h3{
+	font-size: 18px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+h4 {
+	font-size: 16px;
+	letter-spacing: 2px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+p { 
+	font-family: serif;
+	text-align: left;
+	width: 100%;
+}
+
+img {
+	border: 1px solid;
+	margin: 0 0 10px 10px;
+	padding: 5px;
+	float: right;
+	text-align: center;
+}
+
+ul li {
+	text-align: left;
+	list-style-type: square;
+	width: 100%;
+}
+
+ul li span {
+	text-transform: bold, italic;
+}
+
+ul li img {
+	display: inline;
+	width: 100%;
+	height: 70%;
+	border: 1px solid;
+	padding: 5px;
+}
